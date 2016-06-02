@@ -13,7 +13,6 @@ const config = {
     regex: '([a-zA-Z][a-z0-9A-Z0-9]+-[0-9]+)',
     sprintField: '',
     customFields: {
-      "customfield_10012": "Story Points"
     },
     response: 'semi-minimal' // full, semi-minimal or minimal
   },
