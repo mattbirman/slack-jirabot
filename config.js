@@ -17,7 +17,7 @@ const config = {
     response: 'semi-minimal' // full, semi-minimal or minimal
   },
   slack: {
-    token: 'xoxb-46910111698-ShUPkB1JRnT1hYSXEuzs1uL6',
+    token: '',
     autoReconnect: true
   },
   usermap: {}
