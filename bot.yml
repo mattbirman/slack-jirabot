@@ -3,19 +3,19 @@ description: A simple JIRA node.js bot
 avatar: avatar.png
 config:
   - name: HOST
-    friendly_name: API.AI developer token
+    friendly_name: JIRA hostname
     info: This is utterly necessary
     type: secret
-    default: NOT A VALID TOKEN
+    default: NOT A VALID HOSTNAME
     global: true
   - name: USER
-    friendly_name: API.AI developer token
+    friendly_name: Username
     info: This is utterly necessary
     type: secret
     default: NOT A VALID TOKEN
     global: true
   - name: PASS
-    friendly_name: API.AI developer token
+    friendly_name: Password
     info: This is utterly necessary
     type: secret
     default: NOT A VALID TOKEN
