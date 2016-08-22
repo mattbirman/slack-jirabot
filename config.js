@@ -3,11 +3,11 @@
 const config = {
   jira: {
     protocol: 'https',
-    host: 'pageuppeople.atlassian.net',
+    host: '',
     port: 443,
     base: '',
-    user: 'slackbot@pageuppeople.com',
-    pass: 'w9yBr2Hj',
+    user: '',
+    pass: '',
     apiVersion: 'latest',
     strictSSL: false,
     regex: '([a-zA-Z][a-z0-9A-Z0-9]+-[0-9]+)',
